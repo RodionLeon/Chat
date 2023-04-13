@@ -80,7 +80,6 @@
             <EditText
                 android:id="@+id/editNumber"
                 android:hint="@string/type_your_phone_number"
-                android:background="sha"
                 android:ems="1"
                 android:inputType="phone"
                 android:textSize="20sp"
